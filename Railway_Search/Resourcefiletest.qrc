@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/1640184565(1).jpg</file>
+        <file>res/railwaygraph.png</file>
+        <file>res/SearchButton2.png</file>
+        <file>res/background1.png</file>
+        <file>res/close1.png</file>
+        <file>res/RedLine1.png</file>
+        <file>res/RedPoint1.png</file>
+        <file>res/railway1.png</file>
+        <file>res/redClose1.png</file>
+        <file>res/tietle1.png</file>
+        <file>res/background2.png</file>
+        <file>res/background3.png</file>
+        <file>res/background4.png</file>
+        <file>res/background5.png</file>
+        <file>res/backgroud6.png</file>
+        <file>res/background8.png</file>
+        <file>res/BlueLineBeijing_xian3.png</file>
+        <file>res/bluelineBeijing_xuzhou1.png</file>
+        <file>res/bluelinexian_zhengzhou1.png</file>
+        <file>res/bluelinexian_zhengzhou.png</file>
+        <file>res/bluePoint1.png</file>
+        <file>res/SearchButton3.png</file>
+        <file>res/searchbutton4.png</file>
+        <file>res/detaiDialogBackground.png</file>
+        <file>res/railwayDetailGraph.png</file>
+        <file>res/detailDialogBackground2.png</file>
+        <file>res/detailDialogBackground3.png</file>
+        <file>res/Logo.png</file>
+    </qresource>
+</RCC>
